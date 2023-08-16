@@ -36,6 +36,3 @@ Overall, using Bootstrap can be a helpful way to create an e-commerce website by
 
 Here you will find all the images I'm using to create this responsive ecommerce website. In future image folder can update.
 
-Get the full source code from [here1](https://www.buymeacoffee.com/tech2etc/e/42639).
-
-Get the full source code from [here2](https://ko-fi.com/s/58e9932dcc).
